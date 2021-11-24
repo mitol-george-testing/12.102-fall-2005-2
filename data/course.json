@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b1852a0f-3460-1088-5a56-c4bd52aac17f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Environmental Earth Science",
+  "course_description": "The geologic record demonstrates that our environment has changed over a variety of time scales from seconds to billions of years. This course explores the many ways in which geologic processes control and modify the Earth's environment and serves as an introduction to Environmental Earth Science Field Course (12.120), which addresses field applications of these principles in the American Southwest.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.102",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
